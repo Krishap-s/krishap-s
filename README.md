@@ -5,7 +5,6 @@
 ## Bit more about me:
 - 🌱 I'm currently learning infosec, devops, and other similar technologies
 - 👯 I'm looking to collaborate on other infosec related projects
-- 💬 Ask me on how linux is more superior than windows
 
 ## You can reach me on :
 <a href="https://github.com/Krishap-s" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
